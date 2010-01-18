@@ -1,0 +1,6 @@
+2010-01-16 17:05:59 Notice: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [CORE/cake/libs/debugger.php, line 557]
+2010-01-16 19:20:30 Notice: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [CORE/cake/libs/debugger.php, line 557]
+2010-01-16 19:25:41 Notice: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [CORE/cake/libs/debugger.php, line 557]
+2010-01-16 19:25:46 Notice: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [CORE/cake/libs/debugger.php, line 557]
+2010-01-16 23:09:34 Notice: Notice (8): Undefined variable: posts in [APP/views/users/index.ctp, line 4]
+2010-01-16 23:10:51 Notice: Notice (8): Undefined index:  User in [APP/views/users/index.ctp, line 8]
